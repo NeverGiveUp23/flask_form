@@ -1,0 +1,72 @@
+
+
+#logo{
+  font-family: 'Nabla', cursive;
+  color: #1C6758;
+  font-size: 40px;
+}
+
+#main{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+#main > button{
+  background-color: #749F82;
+  border: #749F82;
+
+}
+
+.carousel-inner{
+  height: 100%;
+  width: 1000px;
+  
+}
+
+#carouselExampleControls{
+justify-content: center;
+margin: 200px auto;
+display: flex;
+width: 80%;
+}
+
+
+
+.text-center{
+  display: flex;
+  height: 400px;
+  justify-content: space-between;
+}
+
+.reading{
+  text-align: center;
+  color: #1C6758;
+  font-family: 'Akaya Telivigala', cursive;;
+  margin-bottom: 80px;
+}
+
+.text-center > img{
+  border: 2px solid black;
+  box-shadow: 9px 9px 5px #7DE5ED;
+}
+.progress{
+  width: 100%;
+  background-color: #C8FFD4;
+  margin-top: 50px;
+}
+
+.badge{
+  color: #1C6758;
+  height: 300px;
+}
+
+#book2{
+  margin-top: 100px;
+}
+/* .progress{
+  width: 700px;
+  margin: 0 auto;
+  background-color:antiquewhite;
+  margin-top: 10px;
+} */
